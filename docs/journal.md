@@ -29,7 +29,7 @@ No journal entries yet.
 ## All Entries
 {: .text-delta }
 
-{% assign entries = site.html_pages | where: "parent", "document Journal" | sort: "date" | reverse %}
+{% assign entries = site.html_pages | where: "parent", "Journal" | sort: "date" | reverse %}
 {% for entry in entries %}
 - [{{ entry.title }}]({{ entry.url | relative_url }}) - {{ entry.date | date: "%B %d, %Y" }}
 {% endfor %}
