@@ -11,8 +11,8 @@ permalink: /
 A typing practice app that combines creative storytelling with skill development, using a felt board/puppet show aesthetic where users write continuously as visual scenes evolve around them.
 {: .fs-6 .fw-300 }
 
-[Get Started]({{ '/docs/project-summary' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View Requirements]({{ '/docs/project-requirements' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Project Summary]({{ '/docs/project-summary' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View Requirements]({{ '/docs/requirements' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
