@@ -51,7 +51,7 @@ Unlike traditional typing trainers that rely on repetitive drills, Story Flow Ty
 - **Data:** Binary animation format in 8KB shareable URLs
 - **Testing:** TDD methodology (mocks → local Gel → production)
 
-[View Detailed Requirements]({{ '/docs/project-requirements' | relative_url }}){: .btn .btn-outline .fs-4 .mb-4 .mb-md-0 .mr-2 }
+[View Detailed Requirements]({{ '/docs/requirements' | relative_url }}){: .btn .btn-outline .fs-4 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -69,7 +69,7 @@ This documentation chronicles the collaborative development of Story Flow Typer,
 |:---------|:--------|:-------|
 | [Project Summary]({{ '/docs/project-summary' | relative_url }}) | Core concept, tech stack, and feature overview | ✅ Complete |
 | [User Stories]({{ '/docs/user-stories' | relative_url }}) | Detailed user experience requirements | ✅ Complete |
-| [Project Requirements]({{ '/docs/project-requirements' | relative_url }}) | Technical specifications and sprint planning | ✅ Complete |
+| [Project Requirements]({{ '/docs/requirements' | relative_url }}) | Technical specifications and sprint planning | ✅ Complete |
 | [Project Plan & Status]({{ '/docs/project-plan-and-status' | relative_url }}) | Current progress and milestones | 🚧 In Progress |
 
 </div>
@@ -127,7 +127,7 @@ Development journal entries will appear here as the project progresses, document
 **🚀 Get Started**
 - [Project Summary]({{ '/docs/project-summary' | relative_url }}) - Understand the vision
 - [User Stories]({{ '/docs/user-stories' | relative_url }}) - See user experience flows  
-- [Technical Requirements]({{ '/docs/project-requirements' | relative_url }}) - Review implementation plan
+- [Technical Requirements]({{ '/docs/requirements' | relative_url }}) - Review implementation plan
 
 **📊 Track Progress**  
 - [Journal]({{ '/docs/journal' | relative_url }}) - Development updates and insights

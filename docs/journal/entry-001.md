@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Journal Entry #1"
-parent: journal
+parent: Journal
 nav_order: [REVERSE_CHRONOLOGICAL_ORDER]
 date: 2025-06-12
 ---

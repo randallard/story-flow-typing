@@ -1,6 +1,6 @@
 ---
 layout: default
-title:journal
+title: Journal
 nav_order: 3
 has_children: true
 permalink: /docs/journal
@@ -14,7 +14,7 @@ This journal documents the document process of the Story Flow Typing Application
 ## Latest Entry
 {: .text-delta }
 
-{% assign latest_entry = site.html_pages | where: "parent", "document Journal" | sort: "date" | reverse | first %}
+{% assign latest_entry = site.html_pages | where: "parent", "Journal" | sort: "date" | reverse | first %}
 {% if latest_entry %}
 ### [{{ latest_entry.title }}]({{ latest_entry.url | relative_url }})
 **Date:** {{ latest_entry.date | date: "%B %d, %Y" }}
