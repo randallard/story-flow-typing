@@ -29,6 +29,9 @@ Today we took the Story Flow Typer concept from yesterday's brainstorming and tr
 
 The developer came prepared with their development environment (WSL2, Expo) and a commitment to Test-Driven Development using the red-green-refactor methodology. This wasn't just planning - this was architecting a real application with production deployment goals.
 
+- A quick [chat](https://claude.ai/share/e8c78166-792c-4e06-bfd3-b4b83885dc88) to add a user story 
+- Here's todays [chat](https://claude.ai/share/8c086383-4b3e-47b8-82a6-65d9c6ce4758)
+
 ## The Technical Deep Dive
 
 Our conversation methodically worked through each layer of the application stack, with me asking focused questions to understand constraints and preferences:
